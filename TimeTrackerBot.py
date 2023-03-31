@@ -10,7 +10,7 @@ import datetime
 import sqlite3
 
 
-TOKEN = "6017936598:AAGwJWBZE02ivX8pKktQ_yCEVqRsQVx0FRk"
+TOKEN = "TOKEN"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
